@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 
 
 
@@ -15052,6 +15052,87 @@
 
 
 
+
+<SetDefaults path="reanim/" idprefix="IMAGE_REANIM_" />
+    <Image id="N26_STINGER" path="n26_stinger" />
+    <Image id="N26_DUPLICATORCYCLER" path="n26_duplicatorcycler" />
+    <Image id="N26_ORANGE" path="n26_orange" />
+    <Image id="N26_WATERCHESTNUT" path="n26_waterchestnut" />
+    <Image id="N26_ORANGESLIME" path="n26_orangeslime" />
+    <Image id="N26_DEERRIDERZOMBIE" path="n26_deerriderzombie" />
+    <Image id="N26_PROPELLERZOMBIE" path="n26_propellerzombie" />
+    <Image id="N26_DOGWALKERZOMBIE" path="n26_dogwalkerzombie" />
+    <Image id="N26_ZOMBIEDOG" path="n26_zombiedog" />
+    <Image id="N26_EMPTY" path="n26_empty" />
+
+<SetDefaults path="reanim/" idprefix="IMAGE_REANIM_FB_" />
+<Image id="DOG_0" path="fb_dog_0" />
+<Image id="DOG_1" path="fb_dog_1" />
+<Image id="DOG_2" path="fb_dog_2" />
+<Image id="DOG_3" path="fb_dog_3" />
+<Image id="DOG_4" path="fb_dog_4" />
+<Image id="DOG_5" path="fb_dog_5" />
+<Image id="DOG_6" path="fb_dog_6" />
+<Image id="DOG_7" path="fb_dog_7" />
+<Image id="DEER_0" path="fb_deer_0" />
+<Image id="DEER_1" path="fb_deer_1" />
+<Image id="DEER_2" path="fb_deer_2" />
+<Image id="DEER_3" path="fb_deer_3" />
+<Image id="DEER_4" path="fb_deer_4" />
+<Image id="DEER_5" path="fb_deer_5" />
+<Image id="DEER_6" path="fb_deer_6" />
+<Image id="DEER_7" path="fb_deer_7" />
+<Image id="SPEAR" path="fb_spear" />
+<Image id="LEASH" path="fb_leash" />
+<Image id="PROPBODY" path="fb_propbody" />
+<Image id="ROTOR" path="fb_rotor" />
+
+<SetDefaults path="reanim/" idprefix="IMAGE_REANIM_FB_" />
+<Image id="MAGNET_ROTOR" path="fb_magnet_rotor" />
+
+<SetDefaults path="reanim/" idprefix="IMAGE_REANIM_" />
+<Image id="N26_ORANGE_DAMAGED1" path="n26_orange_damaged1" />
+<Image id="N26_ORANGE_DAMAGED2" path="n26_orange_damaged2" />
+
+<SetDefaults path="reanim/" idprefix="IMAGE_REANIM_" />
+<Image id="F3_ZOMBIE_BALLOON_INNERLEG_LOWER" path="fb3_zombie_balloon_innerleg_lower" />
+<Image id="F3_ZOMBIE_BALLOON_INNERLEG_FOOT" path="fb3_zombie_balloon_innerleg_foot" />
+<Image id="F3_ZOMBIE_BALLOON_OUTERLEG_UPPER" path="fb3_zombie_balloon_outerleg_upper" />
+<Image id="F3_ZOMBIE_INNERARM_HAND" path="fb3_zombie_innerarm_hand" />
+<Image id="F3_ZOMBIE_BALLOON_INNERARM_UPPER" path="fb3_zombie_balloon_innerarm_upper" />
+<Image id="F3_ZOMBIE_BALLOON_INNERARM_LOWER" path="fb3_zombie_balloon_innerarm_lower" />
+<Image id="F3_ZOMBIE_BALLOON_BODY2" path="fb3_zombie_balloon_body2" />
+<Image id="F3_ZOMBIE_BALLOON_BODY1" path="fb3_zombie_balloon_body1" />
+<Image id="F3_ZOMBIE_BALLOON_OUTERLEG_FOOT" path="fb3_zombie_balloon_outerleg_foot" />
+<Image id="F3_ZOMBIE_BALLOON_OUTERLEG_LOWER" path="fb3_zombie_balloon_outerleg_lower" />
+<Image id="F3_ZOMBIE_BALLOON_INNERLEG_UPPER" path="fb3_zombie_balloon_innerleg_upper" />
+<Image id="F3_ZOMBIE_BALLOON_HEAD" path="fb3_zombie_balloon_head" />
+<Image id="F3_ZOMBIE_BALLOON_JAW" path="fb3_zombie_balloon_jaw" />
+<Image id="F3_ZOMBIE_OUTERARM_HAND" path="fb3_zombie_outerarm_hand" />
+<Image id="F3_ZOMBIE_BALLOON_OUTERARM_UPPER" path="fb3_zombie_balloon_outerarm_upper" />
+<Image id="F3_ZOMBIE_BALLOON_OUTERARM_UPPER2" path="fb3_zombie_balloon_outerarm_upper2" />
+<Image id="F3_ZOMBIE_BALLOON_OUTERARM_LOWER" path="fb3_zombie_balloon_outerarm_lower" />
+<Image id="F3_ZOMBIE_BALLOON_HAT" path="fb3_zombie_balloon_hat" />
+
+<SetDefaults path="reanim/" idprefix="IMAGE_REANIM_" />
+<Image id="ENERGY_COFFEEBEAN_HEAD1" path="energy_coffeebean_head1" />
+<Image id="ENERGY_COFFEEBEAN_HEAD10" path="energy_coffeebean_head10" />
+<Image id="ENERGY_COFFEEBEAN_HEAD11" path="energy_coffeebean_head11" />
+<Image id="ENERGY_COFFEEBEAN_HEAD12" path="energy_coffeebean_head12" />
+<Image id="ENERGY_COFFEEBEAN_HEAD2" path="energy_coffeebean_head2" />
+<Image id="ENERGY_COFFEEBEAN_HEAD3" path="energy_coffeebean_head3" />
+<Image id="ENERGY_COFFEEBEAN_HEAD4" path="energy_coffeebean_head4" />
+<Image id="ENERGY_COFFEEBEAN_HEAD5" path="energy_coffeebean_head5" />
+<Image id="ENERGY_COFFEEBEAN_HEAD6" path="energy_coffeebean_head6" />
+<Image id="ENERGY_COFFEEBEAN_HEAD7" path="energy_coffeebean_head7" />
+<Image id="ENERGY_COFFEEBEAN_HEAD8" path="energy_coffeebean_head8" />
+<Image id="ENERGY_COFFEEBEAN_HEAD9" path="energy_coffeebean_head9" />
+<Image id="ENERGY_COFFEEBEAN_LEAF" path="energy_coffeebean_leaf" />
+<Image id="N26_VICTORIALILY" path="n26_victorialily" />
+<Image id="F4_DOG_EAT_0" path="fb4_dog_eat_0" />
+<Image id="F4_DOG_EAT_1" path="fb4_dog_eat_1" />
+<Image id="F4_DOG_EAT_2" path="fb4_dog_eat_2" />
+<Image id="F4_DOG_EAT_3" path="fb4_dog_eat_3" />
 </Resources>
 
 
