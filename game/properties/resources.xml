@@ -13029,7 +13029,7 @@
 
 
 
-<Image id="CHALLENGE_THUMBNAILS" path="Challenge_Thumbnails" cols="48" />
+<Image id="CHALLENGE_THUMBNAILS" path="Challenge_Thumbnails_r21" cols="69" />
 
 
 
@@ -13047,7 +13047,7 @@
 
 
 
-<Image id="SURVIVAL_THUMBNAILS" path="Survival_Thumbnails" cols="26" />
+<Image id="SURVIVAL_THUMBNAILS" path="Survival_Thumbnails_r21" cols="30" />
 
 
 
@@ -15028,6 +15028,9 @@
 
 
   <Image id="BACKGROUND5W" path="background5W" ddsurface="" a8r8g8b8="" />
+<Image id="R19_ROOF_MASK" path="background5_gameover_mask" />
+<Image id="R19_POOL_MASK" path="background3_gameover_mask" />
+
 
 
 
