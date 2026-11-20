@@ -13029,7 +13029,7 @@
 
 
 
-<Image id="CHALLENGE_THUMBNAILS" path="Challenge_Thumbnails_r21" cols="69" />
+<Image id="CHALLENGE_THUMBNAILS" path="Challenge_Thumbnails_r22" cols="69" />
 
 
 
@@ -15132,6 +15132,8 @@
 <Image id="ENERGY_COFFEEBEAN_HEAD9" path="energy_coffeebean_head9" />
 <Image id="ENERGY_COFFEEBEAN_LEAF" path="energy_coffeebean_leaf" />
 <Image id="N12_GOURD" path="n12_gourd" />
+<Image id="F20_TURNIP" path="f20_turnip" />
+<Image id="F20_WINE_JAR" path="f20_wine_jar" />
 <Image id="N12_RICE" path="n12_rice" />
 <Image id="N12_CHARREDRICE" path="n12_charredrice" />
 <Image id="N12_ROWBOATZOMBIE" path="n12_rowboatzombie" />
@@ -15148,6 +15150,12 @@
 <Image id="F4_DOG_EAT_1" path="fb4_dog_eat_1" />
 <Image id="F4_DOG_EAT_2" path="fb4_dog_eat_2" />
 <Image id="F4_DOG_EAT_3" path="fb4_dog_eat_3" />
+  <SetDefaults path="images/" idprefix="IMAGE_" />
+  <Image id="F20_POWER_TILE" path="F20_PowerTile" />
+<Image id="F20_WINE_JAR_GROUND" path="F20_WineJarGround" />
+<Image id="F20_WINE_MIST" path="F20_WineMist" />
+<Image id="F15_SQUIRREL" path="F15_Squirrel" />
+  <Image id="F15_MOWER" path="F15_Mower" />
 </Resources>
 
 
